@@ -1,3 +1,8 @@
 Some edit made by partner 1:
+<<<<<<< HEAD
+=======
+This changed is made by Yiling Ding
+Haha
+>>>>>>> 8679ccba5e880bd05bda811ace4a42ce98e5b668
 
 Make a change here
